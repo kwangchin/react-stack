@@ -1,6 +1,7 @@
 {
   "presets": [
-    "latest",
-    "flow"
+    "env",
+    "flow",
+    "react"
   ]
 }
