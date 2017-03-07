@@ -1,0 +1,2 @@
+[![Build Status](https://img.shields.io/travis/kwangchin/react-stack.svg?style=flat-square)](https://travis-ci.org/kwangchin/react-stack)
+[![Coverage Status](https://img.shields.io/coveralls/kwangchin/react-stack.svg?style=flat-square)](https://coveralls.io/github/kwangchin/react-stack?branch=master)
